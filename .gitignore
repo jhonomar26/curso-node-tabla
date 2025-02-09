@@ -1,0 +1,3 @@
+/salida/*.txt
+# Ignora tambien los modulos de nodo, ya que estos cambian a menudo
+node_modules/
